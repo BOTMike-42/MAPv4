@@ -1,0 +1,654 @@
+institution;country;papers;latitude;longitude
+Centre National de la Recherche Scientifique;FR;133;45.7804582;4.8749570
+Tsinghua University;CN;101;40.0022905;116.3209630
+University of Southern California;US;100;34.0218690;-118.2858579
+Delft University of Technology;NL;89;51.9988274;4.3739604
+University College London;GB;81;51.5242030;-0.1330007
+Northeastern University;US;77;42.3351065;-71.0892575
+Carnegie Mellon University;US;75;40.4439193;-79.9428267
+University of Augsburg;DE;72;48.3554077;10.9043357
+Zhejiang University;CN;72;30.5215950;120.7195312
+Shanghai Jiao Tong University;CN;69;31.2008911;121.4283949
+University of Glasgow;GB;69;55.8727036;-4.2919966
+Sorbonne Université;FR;66;48.8379885;2.3611216
+Utrecht University;NL;60;52.0928174;5.1211367
+Chinese Academy of Sciences;CN;59;39.9093367;116.3297146
+Hong Kong Polytechnic University;HK;57;22.3027249;114.1780367
+University of Florida;US;54;29.6411884;-82.3562296
+Nanyang Technological University;SG;53;1.3484104;103.6829332
+Southeast University;CN;51;31.8891787;118.8156070
+Eindhoven University of Technology;NL;50;51.4486602;5.4903996
+KTH Royal Institute of Technology;SE;49;59.2016758;17.6203201
+University of Twente;NL;49;52.2433268;6.8509157
+German Research Centre for Artificial Intelligence;DE;48;;
+South China University of Technology;CN;48;23.1603420;113.3372426
+Monash University;AU;47;-37.7839745;144.9586743
+University of Nottingham;GB;46;52.9387428;-1.2002957
+Harbin Institute of Technology;CN;45;45.7415890;126.6255626
+Institut Systèmes Intelligents et de Robotique;FR;45;48.8456898;2.3567339
+Texas A&M University;US;45;30.6108618;-96.3520606
+University of Bremen;DE;45;53.1079646;8.8556646
+Creative Technologies (United States);US;44;33.9827958;-118.4052128
+Imperial College London;GB;44;51.4989595;-0.1756407
+University of Cambridge;GB;43;52.1902006;0.1222558
+Yonsei University;KR;42;37.5599641;126.9354036
+Tilburg University;NL;41;51.5630609;5.0435985
+University of Chinese Academy of Sciences;CN;41;39.9076970;116.2440577
+Massachusetts Institute of Technology;US;40;42.3582529;-71.0966272
+University College Dublin;IE;40;53.3068499;-6.2246268
+UNSW Sydney;AU;39;-33.9175994;151.2312369
+Beihang University;CN;38;39.9809427;116.3409787
+The University of Tokyo;JP;38;35.9019845;139.9362283
+Université Paris-Saclay;FR;38;48.7121501;2.1735087
+Beijing Normal University;CN;37;39.9597631;116.3597240
+Sungkyunkwan University;KR;37;37.3003187;126.9697911
+University of Toronto;CA;37;43.6634681;-79.3968165
+City University of Hong Kong;HK;36;22.3400205;114.1697162
+National University of Singapore;SG;36;1.2959845;103.7766186
+Sun Yat-sen University;CN;36;23.0996034;113.2923509
+University of Michigan;US;36;42.2942142;-83.7100389
+University of Waterloo;CA;36;43.4701994;-80.5452429
+University of Illinois Urbana-Champaign;US;34;40.0761545;-88.2233134
+Virginia Tech;US;34;37.2219268;-80.4272818
+Beijing Institute of Technology;CN;33;39.9578214;116.3098237
+ETH Zurich;CH;33;47.4132180;8.5374914
+Northwestern Polytechnical University;CN;33;34.2469224;108.9106235
+Shenzhen University;CN;32;22.5359023;113.9314749
+University of Oulu;FI;32;65.0593277;25.4673577
+Ludwig-Maximilians-Universität München;DE;31;48.1504758;11.5798356
+Tampere University;FI;31;61.4934627;23.7789500
+University of Science and Technology of China;CN;31;31.8390720;117.2642075
+Microsoft (United States);US;30;37.3974949;-122.0842646
+Nara Institute of Science and Technology;JP;30;34.7318113;135.7335875
+Tongji University;CN;30;31.2847393;121.4969491
+University of Amsterdam;NL;30;52.3681334;4.8898042
+University of British Columbia;CA;30;49.2656267;-123.2502921
+University of Pittsburgh;US;30;40.4441530;-79.9624610
+Xi'an Jiaotong University;CN;30;34.2476753;108.9789725
+NTT (Japan);JP;29;41.7733707;140.7395509
+University of Colorado Boulder;US;29;40.0070061;-105.2664423
+University of Edinburgh;GB;29;55.9440765;-3.1883736
+King's College London;GB;28;51.5030855;-0.0900021
+Korea Advanced Institute of Science and Technology;KR;28;36.3703054;127.3620118
+Laboratoire Interdisciplinaire des Sciences du Numérique;FR;28;48.7123315;2.1680929
+Michigan State University;US;28;42.7023794;-84.4803869
+Purdue University West Lafayette;US;28;40.4300280;-86.9264211
+The University of Texas at Dallas;US;28;32.9785262;-96.7553288
+Vrije Universiteit Amsterdam;NL;28;52.3340539;4.8651882
+Cornell University;US;27;42.4529160;-76.4800635
+Harvard University;US;27;42.3657432;-71.1222139
+Hefei University of Technology;CN;27;31.8467178;117.2905698
+Huazhong University of Science and Technology;CN;27;30.5202172;114.4118463
+University of Canberra;AU;27;-35.2365904;149.0845097
+University of Genoa;IT;27;44.4148861;8.9266707
+Beijing University of Posts and Telecommunications;CN;26;39.9602270;116.3519331
+Korea University;KR;26;36.6108894;127.2934174
+Lanzhou University;CN;26;36.0504988;103.8544558
+University of Central Florida;US;26;28.5995910;-81.1971284
+University of Duisburg-Essen;DE;26;51.4290899;6.8008580
+University of Washington;US;26;47.6554303;-122.3001692
+Universität Hamburg;DE;26;53.5909051;9.9753758
+Hanyang University;KR;25;37.5557274;127.0436837
+Swansea University;GB;25;51.6189634;-3.8841088
+Tianjin University;CN;25;38.9969312;117.3062804
+University of Geneva;CH;25;46.1927166;6.1489407
+Arizona State University;US;24;33.4213174;-111.9331631
+Peng Cheng Laboratory;CN;24;22.6286412;113.9297268
+Pennsylvania State University;US;24;40.8128971;-77.8710571
+Shandong University;CN;24;36.3688546;120.6737612
+Technical University of Munich;DE;24;48.2654976;11.6692249
+Trinity College Dublin;IE;24;53.3437061;-6.2544278
+University of Macau;MO;24;22.1283648;113.5437784
+University of Trento;IT;24;46.0661807;11.1166177
+Aix-Marseille Université;FR;23;43.5259126;5.4141035
+Bielefeld University;DE;23;52.0444616;8.4927162
+Politecnico di Milano;IT;23;45.0468832;9.7030881
+Radboud University Nijmegen;NL;23;51.8215173;5.8634329
+Sapienza University of Rome;IT;23;;
+The University of Sydney;AU;23;-33.8889072;151.1894111
+Peking University;CN;22;40.1750746;116.1593872
+Queen Mary University of London;GB;22;51.5247403;-0.0393136
+Renmin University of China;CN;22;39.9695397;116.3071291
+The University of Melbourne;AU;22;-37.7969983;144.9544710
+Télécom Paris;FR;22;48.7131108;2.1996850
+University of Malta;MT;22;35.9020939;14.4834607
+University of Würzburg;DE;22;49.7876141;9.9337894
+Université Grenoble Alpes;FR;22;45.1931884;5.7651901
+Clemson University;US;21;34.6686916;-82.8374348
+Ghent University;BE;21;51.0078485;3.7108831
+Institute of Psychology, Chinese Academy of Sciences;CN;21;;
+Italian Institute of Technology;IT;21;;
+KU Leuven;BE;21;50.8057129;3.2915374
+RWTH Aachen University;DE;21;50.7791732;6.0689207
+Seoul National University;KR;21;37.4669776;126.9491379
+Simon Fraser University;CA;21;49.2776616;-122.9095350
+Wuhan University;CN;21;30.5373773;114.3615350
+Xi’an Jiaotong-Liverpool University;CN;21;31.2757194;120.7354789
+Georgia Institute of Technology;US;20;33.7760948;-84.3988077
+Heriot-Watt University;GB;20;55.9102959;-3.3234475
+Institute of Automation;CN;20;31.9620269;118.7586841
+Laboratoire Traitement et Communication de l’Information;FR;20;;
+Macquarie University;AU;20;-33.7741970;151.1127138
+National Cheng Kung University;TW;20;22.9990116;120.2162155
+National Tsing Hua University;TW;20;24.7916987;120.9924295
+University of Lisbon;PT;20;38.7527961;-9.1570276
+University of Pennsylvania;US;20;39.9522148;-75.1955729
+University of Tübingen;DE;20;48.5340595;9.0712444
+Hong Kong Baptist University;HK;19;22.3379880;114.1826259
+Nanjing University of Science and Technology;CN;19;32.0318260;118.8521427
+National Yang Ming Chiao Tung University;TW;19;24.7867677;120.9972441
+The University of Texas at Austin;US;19;;
+University of Auckland;NZ;19;-36.8660955;174.7737331
+Universität Ulm;DE;19;48.4206167;9.9470045
+Zhejiang University of Technology;CN;19;30.2310846;120.0361630
+Boston University;US;18;42.3504215;-71.1032247
+Chinese University of Hong Kong;HK;18;22.4140914;114.2100208
+Japan Advanced Institute of Science and Technology;JP;18;36.4436614;136.5923335
+Leiden University;NL;18;52.1686437;4.4597918
+Maastricht University;NL;18;50.8472117;5.6859518
+RMIT University;AU;18;-37.8081607;144.9645832
+South China Normal University;CN;18;23.1430189;113.3386042
+Stanford University;US;18;37.4313138;-122.1693654
+The University of Osaka;JP;18;34.8029055;135.4561866
+University of Helsinki;FI;18;60.2267221;25.0176700
+University of Hong Kong;HK;18;22.2828768;114.1378586
+University of Luxembourg;LU;18;49.5036259;5.9487155
+University of Maryland, College Park;US;18;38.9904124;-76.9438586
+University of Oxford;GB;18;51.7525461;-1.2143168
+University of Rochester;US;18;43.1298640;-77.6287840
+École Polytechnique Fédérale de Lausanne;CH;18;46.5186594;6.5665615
+Fudan University;CN;17;31.3011748;121.4974703
+Hunan University;CN;17;28.1795483;112.9403739
+Laboratoire d'Informatique de Grenoble;FR;17;45.1899678;5.7670157
+North Carolina State University;US;17;35.7718497;-78.6740870
+Technische Universität Berlin;DE;17;52.5110159;13.3269541
+University of Maryland, Baltimore County;US;17;39.2523770;-76.7089181
+University of Tampere;FI;17;61.4496967;23.8587485
+University of Turin;IT;17;45.0511650;7.6811479
+University of Zurich;CH;17;47.4968435;8.7298072
+Australian National University;AU;16;-35.2812742;149.1172023
+East China Normal University;CN;16;31.2284923;121.4021139
+Institut polytechnique de Grenoble;FR;16;45.1908798;5.7169733
+Nanjing University of Posts and Telecommunications;CN;16;32.1152716;118.9259566
+Ruhr University Bochum;DE;16;51.4441576;7.2610046
+Rutgers, The State University of New Jersey;US;16;;
+University of Electronic Science and Technology of China;CN;16;30.7444222;103.9271246
+University of Houston;US;16;29.7207902;-95.3440627
+University of Manchester;GB;16;53.4660226;-2.2330858
+University of South Florida;US;16;28.0599999;-82.4138362
+Beijing Academy of Artificial Intelligence;CN;15;;
+Cardiff University;GB;15;51.5067253;-3.1894874
+Central China Normal University;CN;15;30.5204338;114.3563008
+Columbia University;US;15;40.8077507;-73.9624901
+Hong Kong University of Science and Technology;HK;15;22.3387206;114.2618989
+Indian Institute of Technology Ropar;IN;15;30.9659501;76.4729772
+Kyoto University;JP;15;35.0270467;135.7814382
+Kyung Hee University;KR;15;37.5971213;127.0519867
+Tokyo Institute of Technology;JP;15;35.6045553;139.6827849
+Universidad de Zaragoza;ES;15;42.5685560;-0.5541832
+Universitat Oberta de Catalunya;ES;15;41.1538709;1.1003996
+University of St.Gallen;CH;15;47.4300025;9.3722184
+University of Vienna;AT;15;48.2131278;16.3606855
+University of Wisconsin–Madison;US;15;43.0802745;-89.4309587
+Uppsala University;SE;15;59.8576363;17.6294616
+Aalborg University;DK;14;57.0156429;9.9752962
+Chinese University of Hong Kong, Shenzhen;CN;14;22.6910685;114.2073660
+Dalhousie University;CA;14;44.6362010;-63.5919961
+Hangzhou Dianzi University;CN;14;30.3033132;120.3741385
+Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento;PT;14;;
+Karlsruhe Institute of Technology;DE;14;49.1018534;8.4331202
+Leibniz-Institut für Wissensmedien;DE;14;48.5246575;9.0547112
+London Centre for Nanotechnology;GB;14;51.5253031;-0.1330236
+National Taiwan Normal University;TW;14;25.0082321;121.5357715
+Queen's University;CA;14;44.2263489;-76.4957555
+Saarland University;DE;14;49.2544254;7.0415887
+Universidad de Granada;ES;14;37.1809009;-3.6000115
+University of California, Berkeley;US;14;37.8707751;-122.2656754
+University of Copenhagen;DK;14;55.6801502;12.5723270
+University of Delaware;US;14;39.6802837;-75.7530984
+University of Surrey;GB;14;51.2430782;-0.5900545
+University of Technology Sydney;AU;14;-33.8832536;151.2003294
+Agency for Science, Technology and Research;SG;13;;
+Dalian University of Technology;CN;13;38.8775252;121.5218370
+LMU Klinikum;DE;13;48.1107057;11.4693622
+Nanjing University;CN;13;32.0565957;118.7740883
+Nottingham Trent University;GB;13;52.9116400;-1.1866048
+Queensland University of Technology;AU;13;-27.5421950;153.0649526
+Rice University;US;13;29.7167915;-95.4047811
+Rochester Institute of Technology;US;13;43.0826701;-77.6729322
+Southwest University;CN;13;29.8232372;106.4195884
+The Ohio State University;US;13;40.0056982;-83.0286573
+University of California, Santa Barbara;US;13;34.4146025;-119.8458100
+University of Connecticut;US;13;41.8119263;-72.2647704
+University of Jyväskylä;FI;13;62.2317777;25.7357870
+University of Southampton;GB;13;50.9617568;-1.4239975
+University of the Basque Country;ES;13;43.3092116;-2.0107938
+University of Virginia;US;13;38.0410576;-78.5055084
+Beijing University of Technology;CN;12;39.8739144;116.4772024
+Ben-Gurion University of the Negev;IL;12;31.2631254;34.8022385
+Bournemouth University;GB;12;50.7228985;-1.8615965
+Central South University;CN;12;28.1578368;112.9322974
+Deakin University;AU;12;-37.8475136;145.1149474
+Electronics and Telecommunications Research Institute;KR;12;35.2257318;126.8442521
+Foundation for Research and Technology Hellas;GR;12;35.3048208;25.0723025
+Indiana University Bloomington;US;12;39.1802358;-86.5093526
+Indraprastha Institute of Information Technology Delhi;IN;12;;
+Jiangnan University;CN;12;31.4851219;120.2673352
+Johns Hopkins University;US;12;39.3302023;-76.6218536
+Laboratoire d’Informatique et Systèmes;FR;12;;
+Macau University of Science and Technology;MO;12;22.1526454;113.5680410
+Nankai University;CN;12;38.9869388;117.3394100
+National Chengchi University;TW;12;24.9802091;121.5749593
+Northwestern University;US;12;42.0557157;-87.6752945
+University of California San Diego;US;12;32.8792438;-117.2311247
+University of California, Davis;US;12;38.5337904;-121.7907544
+University of Haifa;IL;12;32.7609456;35.0204641
+University of Lausanne;CH;12;46.5225695;6.5809499
+University of Pisa;IT;12;43.7200000;10.4000000
+University of South Australia;AU;12;-37.8062142;140.7664630
+Université de Lille;FR;12;50.6285707;3.1259560
+Zhejiang Sci-Tech University;CN;12;30.3154546;120.3486958
+AGH University of Krakow;PL;11;50.0657583;19.9192221
+Alibaba Group (China);CN;11;30.1918037;120.1854490
+Birmingham City University;GB;11;52.4822706;-1.8888148
+Colorado State University;US;11;40.5706567;-105.0853995
+Erasmus University Rotterdam;NL;11;51.9176312;4.5259623
+Flinders University;AU;11;-35.0248752;138.5734181
+Guangdong University of Technology;CN;11;23.0417332;113.3873582
+Hochschule Bonn-Rhein-Sieg;DE;11;50.7795602;7.1821701
+Human Media;US;11;;
+IBM Research - Brazil;BR;11;;
+Institute of Software;CN;11;39.9784058;116.3308890
+Manchester Metropolitan University;GB;11;53.4694788;-2.2379823
+McGill University;CA;11;45.4318428;-73.9452864
+Nanjing University of Aeronautics and Astronautics;CN;11;32.0374190;118.8153537
+Soochow University;CN;11;31.0718601;120.6593968
+Syracuse University;US;11;43.0171129;-76.1185536
+The Hong Kong University of Science and Technology (Guangzhou);CN;11;22.8916128;113.4790189
+The University of Queensland;AU;11;-27.4974180;153.0131666
+Universitat Pompeu Fabra;ES;11;41.3892781;2.1911055
+University College Cork;IE;11;51.8947012;-8.4903105
+University of Alberta;CA;11;53.5268200;-113.5244937
+University of Antwerp;BE;11;51.1843856;4.4199387
+University of Gothenburg;SE;11;57.6864579;11.9589874
+University of Stuttgart;DE;11;48.7783451;9.1863189
+University of Sussex;GB;11;50.8674377;-0.0877259
+École de Technologie Supérieure;CA;11;45.4945155;-73.5628555
+Boğaziçi University;TR;10;;
+Brunel University of London;GB;10;51.5326092;-0.4740499
+California Southern University;US;10;34.0218690;-118.2858579
+Capital Normal University;CN;10;39.9288664;116.3000545
+Carleton University;CA;10;45.3858581;-75.6950041
+Center for Excellence in Brain Science and Intelligence Technology;CN;10;;
+Curtin University;AU;10;-31.9528874;115.8012751
+Data61;AU;10;-33.8954501;151.1970367
+Education University of Hong Kong;HK;10;22.4672000;114.1944000
+Florida International University;US;10;25.7553898;-80.3762833
+Instituto Tecnológico de Costa Rica;CR;10;9.8535173;-83.9087134
+Iowa State University;US;10;42.0279608;-93.6447375
+Iscte – Instituto Universitário de Lisboa;PT;10;38.7486143;-9.1540202
+Keio University;JP;10;35.5538164;139.6414098
+Masaryk University;CZ;10;49.2099967;16.5992487
+Nagoya University;JP;10;35.1533087;136.9677806
+Newcastle University;GB;10;54.9801751;-1.6146802
+Shenzhen Institute of Information Technology;CN;10;22.6878129;114.2104425
+Southern University of Science and Technology;CN;10;22.6036030;113.9968497
+Tufts University;US;10;42.4064499;-71.1180771
+Universitat de Barcelona;ES;10;41.3868614;2.1634792
+Universiti Sains Malaysia;MY;10;5.3574323;100.3035504
+University of Ljubljana;SI;10;46.0744053;14.5141463
+University of Minnesota;US;10;44.0198736;-92.4640822
+University of North Carolina at Chapel Hill;US;10;35.9050354;-79.0477533
+University of Strathclyde;GB;10;55.8618812;-4.2419566
+University of Wollongong;AU;10;-34.4050554;150.8783465
+Université de Bordeaux;FR;10;44.8312782;-0.5708167
+USC Institute for Creative Technologies;US;10;;
+Xidian University;CN;10;34.1251589;108.8289653
+Yale University;US;10;41.2571306;-72.9896696
+Yokohama National University;JP;10;35.4737978;139.5900454
+Aalto University;FI;9;60.1860789;24.8281018
+Bilkent University;TR;9;39.8704690;32.7539193
+BMW Group (Germany);DE;9;51.4013757;12.4615453
+Centre de Recherche en Informatique, Signal et Automatique de Lille;FR;9;;
+Commonwealth Scientific and Industrial Research Organisation;AU;9;-31.9495086;115.7896174
+DePaul University;US;9;41.9245803;-87.6507223
+Duke Kunshan University;CN;9;31.4174890;120.8952325
+Fraunhofer Institute for Integrated Circuits;DE;9;51.0312338;13.7242378
+Google (United States);US;9;42.3509200;-71.0783603
+Idiap Research Institute;CH;9;;
+IMT Atlantique;FR;9;48.3578233;-4.5707410
+Indiana University;US;9;39.1802358;-86.5093526
+Ministry of Education of the People's Republic of China;CN;9;39.9123408;116.3630203
+Nantes Université;FR;9;47.2454573;-1.5519856
+National Institute of Astrophysics, Optics and Electronics;MX;9;;
+National Taiwan University of Science and Technology;TW;9;25.0134110;121.5416198
+Norwegian University of Science and Technology;NO;9;63.4480239;10.4536394
+Rensselaer Polytechnic Institute;US;9;42.7298969;-73.6796678
+Singapore University of Technology and Design;SG;9;1.3425074;103.9650689
+Stockholm University;SE;9;59.3661410;18.0595930
+Tianjin Normal University;CN;9;39.0613669;117.1191949
+United States Army Combat Capabilities Development Command;US;9;;
+University of Calgary;CA;9;51.0750540;-114.1388050
+University of Kansas;US;9;38.9535052;-95.2630930
+University of Miami;US;9;25.7172725;-80.2787069
+University of Milano-Bicocca;IT;9;45.5152450;9.2128363
+University of Naples Federico II;IT;9;;
+University of Tsukuba;JP;9;36.1070526;140.1006602
+University of Warwick;GB;9;52.3813073;-1.5639569
+Université Laval;CA;9;46.7811677;-71.2741361
+Washington State University;US;9;46.7337716;-117.1498035
+Zhejiang Normal University;CN;9;29.1367450;119.6376144
+Ștefan cel Mare University of Suceava;RO;9;;
+Amsterdam University of Applied Sciences;NL;8;;
+Bentley University;US;8;42.3834189;-71.2225864
+Brigham Young University;US;8;40.2498073;-111.6499458
+Centrum Wiskunde & Informatica;NL;8;52.3564959;4.9521303
+Chongqing University;CN;8;29.5699522;106.4596103
+Chongqing University of Posts and Telecommunications;CN;8;29.5319556;106.6034280
+Cyprus University of Technology;CY;8;34.6749473;33.0426436
+Edinburgh Napier University;GB;8;55.9311064;-3.2093902
+Eötvös Loránd University;HU;8;47.4935144;19.0618691
+Friedrich-Alexander-Universität Erlangen-Nürnberg;DE;8;;
+Gifu University;JP;8;35.4644408;136.7380014
+Goldsmiths University of London;GB;8;51.4736302;-0.0372464
+Griffith University;AU;8;-27.9633383;153.3846920
+HAW Hamburg;DE;8;53.5565471;10.0227150
+HES-SO Fribourg;CH;8;46.7966987;7.1506995
+Indian Institute of Technology Patna;IN;8;25.5424381;84.8516072
+Inserm;FR;8;45.7442613;4.8765302
+Institut national de recherche en sciences et technologies du numérique;FR;8;48.6655909;6.1574513
+Institute of Computing Technology;CN;8;39.9843000;116.3283000
+Jiangsu University;CN;8;32.2028216;119.5095502
+Jinan University;CN;8;22.2527148;113.5297668
+Johannes Kepler University of Linz;AT;8;;
+KDDI Research (Japan);JP;8;35.8792748;139.5176466
+La Trobe University;AU;8;-37.7171184;145.0441175
+Laboratoire des Sciences du Numérique de Nantes;FR;8;47.2501161;-1.5472698
+Laboratoire des Sciences et Techniques de l’Information de la Communication et de la Connaissance;FR;8;;
+Lancaster University;GB;8;54.0099461;-2.7875980
+Linköping University;SE;8;58.3977911;15.5754544
+Loughborough University;GB;8;52.7638450;-1.2372582
+Middle East Technical University;TR;8;39.8755074;32.7855305
+National Institute of Advanced Industrial Science and Technology;JP;8;36.0531797;140.1171149
+Northumbria University;GB;8;54.9787691;-1.6096401
+Old Dominion University;US;8;36.8862699;-76.3097248
+Oregon State University;US;8;44.5630560;-123.2839234
+Shanghai Institutes for Biological Sciences;CN;8;;
+Shanghai University;CN;8;31.3159206;121.3880243
+Shanghai University of Engineering Science;CN;8;31.0572641;121.2008668
+Sichuan University;CN;8;30.6335392;104.0815556
+Sony Computer Science Laboratories;JP;8;;
+Swinburne University of Technology;AU;8;-37.8214954;145.0387532
+Technische Universität Dresden;DE;8;51.0282765;13.7359828
+UCLouvain;BE;8;50.8534672;4.3611342
+Universidade Estadual de Campinas (UNICAMP);BR;8;;
+University at Buffalo, State University of New York;US;8;42.9564244;-78.8264880
+University of Bamberg;DE;8;54.0867568;13.3818182
+University of Bari Aldo Moro;IT;8;41.1094882;16.8816878
+University of Bath;GB;8;51.3766938;-2.3234206
+University of Bergen;NO;8;60.3809342;5.3313021
+University of Bristol;GB;8;51.4905582;-2.6304825
+University of California, Irvine;US;8;33.6458956;-117.8427990
+University of Coimbra;PT;8;40.2074480;-8.4255578
+University of Eastern Finland;FI;8;62.6043509;29.7422326
+University of Florence;IT;8;43.7769000;11.2589000
+University of Kent;GB;8;51.2950874;1.0673313
+University of Liverpool;GB;8;53.4072429;-2.9658326
+University of Michigan–Dearborn;US;8;42.3172294;-83.2319394
+University of Newcastle Australia;AU;8;-32.8950307;151.6978663
+University of Oregon;US;8;44.0444197;-123.0717603
+University of Southern Queensland;AU;8;-27.6067483;151.9293708
+University of Turku;FI;8;60.4560732;22.2864098
+Yunnan University;CN;8;25.0548175;102.7024182
+Amazon (United States);US;7;40.1565523;-76.8253861
+Anhui University;CN;7;31.8471875;117.2501336
+Beijing Institute of Education;CN;7;40.0006366;116.3214558
+Beijing Jiaotong University;CN;7;39.0224944;115.9847781
+Beijing Language and Culture University;CN;7;39.9935676;116.3418055
+BMW (Germany);DE;7;48.2546859;12.5427971
+City University of Macau;MO;7;22.1639305;113.5574549
+City University of New York;US;7;40.8077507;-73.9624901
+Communication University of China;CN;7;39.9119073;116.5519053
+Drexel University;US;7;39.9545335;-75.1865653
+Dyson (United Kingdom);GB;7;51.5952912;-2.1051101
+Educational Testing Service;US;7;40.3458895;-74.7142599
+Ewha Womans University;KR;7;37.5643371;126.9468925
+George Mason University;US;7;38.8313333;-77.3079884
+Georgia State University;US;7;33.7535889;-84.3854209
+Hamad bin Khalifa University;QA;7;;
+Huawei Technologies (China);CN;7;31.2617972;121.6243165
+Imam Abdulrahman Bin Faisal University;SA;7;;
+IMEC;BE;7;50.8651015;4.6776509
+Indian Institute of Technology Delhi;IN;7;28.5449971;77.1891506
+Indian Institute of Technology Kanpur;IN;7;26.5131880;80.2364843
+Indian Institute of Technology Kharagpur;IN;7;22.3146519;87.3099912
+Institute for Infocomm Research;SG;7;;
+Institute of High Performance Computing;SG;7;1.2987334;103.7871933
+Instituto Superior Técnico;PT;7;38.7367455;-9.1383914
+International Institute of Information Technology Bangalore;IN;7;12.8447999;77.6632390
+Istanbul Technical University;TR;7;41.1045571;29.0263441
+IT University of Copenhagen;DK;7;55.6596553;12.5910769
+Jilin University;CN;7;43.8724271;125.3030637
+King Abdulaziz University;SA;7;21.4934146;39.2485449
+King Saud University;SA;7;24.7241897;46.6231754
+Kookmin University;KR;7;37.6114792;126.9964154
+Lappeenranta-Lahti University of Technology;FI;7;;
+Leibniz University Hannover;DE;7;52.3901618;9.7068803
+Louisiana State University;US;7;30.4062005;-91.1854129
+Nanjing Institute of Technology;CN;7;31.9258106;118.8766921
+Nanjing University of Information Science and Technology;CN;7;;
+National Research Council;IT;7;41.9003704;12.5126063
+National Yunlin University of Science and Technology;TW;7;23.6959887;120.5336507
+New York University;US;7;40.7292053;-73.9950148
+Politecnico di Torino;IT;7;45.0636974;7.6575263
+Seikei University;JP;7;35.7118165;139.5730897
+Seoul National University of Science and Technology;KR;7;37.6324414;127.0794648
+Singapore Management University;SG;7;1.2961099;103.8499494
+State Key Laboratory of Virtual Reality Technology and Systems;CN;7;;
+Technische Universität Darmstadt;DE;7;49.8613738;8.6820080
+Tel Aviv University;IL;7;32.1123577;34.8050129
+Tokushima University;JP;7;34.0779745;134.5590655
+Universidad Carlos III de Madrid;ES;7;40.3150937;-3.7248801
+University of Alicante;ES;7;38.2761926;-0.6932286
+University of Bologna;IT;7;44.4982886;11.3544570
+University of California, San Francisco;US;7;37.7627257;-122.4582568
+"University of Campania ""Luigi Vanvitelli""";IT;7;;
+University of Denver;US;7;39.6766157;-104.9623745
+University of Georgia;US;7;33.9404278;-83.3730682
+University of Johannesburg;ZA;7;-26.1849374;27.9997925
+University of Mannheim;DE;7;49.4699765;8.4819024
+University of Massachusetts Amherst;US;7;42.3893259;-72.5283614
+University of Oslo;NO;7;59.9414173;10.7227683
+University of Potsdam;DE;7;52.4009000;13.0122000
+University of Southern Denmark;DK;7;55.3678533;10.4280534
+University of Tennessee at Knoxville;US;7;35.9419206;-83.9501627
+University of Utah;US;7;40.7628137;-111.8368719
+Università Cattolica del Sacro Cuore;IT;7;45.4618543;9.1770563
+Université de Bretagne Occidentale;FR;7;47.9813699;-4.0975252
+Vrije Universiteit Brussel;BE;7;50.8225504;4.3954969
+West Virginia University;US;7;39.6348398;-79.9542095
+Yuan Ze University;TW;7;24.9686131;121.2675487
+ZHAW Zurich University of Applied Sciences;CH;7;;
+Zhejiang Lab;CN;7;30.2639066;119.8911292
+Zhengzhou University;CN;7;34.8214567;113.5297412
+École Centrale de Lille;FR;7;50.6065889;3.1363694
+Abertay University;GB;6;56.4632546;-2.9744981
+Ajou University;KR;6;37.2830024;127.0453782
+Aristotle University of Thessaloniki;GR;6;40.6296719;22.9591469
+Barcelona Supercomputing Center;ES;6;41.3897809;2.1163849
+Birla Institute of Technology and Science, Pilani;IN;6;;
+Centre d'Etudes Superieures Industrielles;FR;6;48.9199485;2.3327844
+Centre de Recherche en Informatique;FR;6;;
+Chalmers University of Technology;SE;6;57.6897462;11.9765259
+Charles Sturt University;AU;6;-35.0636071;147.3552234
+Chemnitz University of Technology;DE;6;50.8142025;12.9293622
+Dongguk University;KR;6;37.5628950;127.3122230
+Donghua University;CN;6;31.2062180;121.4105479
+Dublin City University;IE;6;53.3865964;-6.2589686
+Hellenic Mediterranean University;GR;6;35.3153418;25.1023938
+Indian Institute of Technology Guwahati;IN;6;26.1924788;91.6946357
+Johannes Gutenberg University Mainz;DE;6;49.9920396;8.2371107
+Laboratoire d'Informatique pour la Mécanique et les Sciences de l'Ingénieur;FR;6;48.7071068;2.1763013
+Laboratoire Parole et Langage;FR;6;43.5331425;5.4456964
+London School of Economics and Political Science;GB;6;51.5146063;-0.1164509
+Lyon 1 Université;FR;6;45.7816645;4.8681545
+Macao Polytechnic University;MO;6;22.1938349;113.5515152
+National Sun Yat-sen University;TW;6;22.6280059;120.2662241
+National Taipei University of Technology;TW;6;25.0430636;121.5346877
+New Jersey Institute of Technology;US;6;40.7421254;-74.1790316
+Nihon University;JP;6;35.6971554;139.7625818
+Ontario Tech University;CA;6;43.9483414;-78.8982025
+Otto-von-Guericke-Universität Magdeburg;DE;6;52.1405894;11.6455823
+Polytechnique Montréal;CA;6;45.5047437;-73.6133774
+Pukyong National University;KR;6;35.1342725;129.1052466
+Reichman University;IL;6;32.1762529;34.8370916
+Reykjavík University;IS;6;64.1247375;-21.9275372
+Shanghai International Studies University;CN;6;31.2789206;121.4781600
+Shanghai Maritime University;CN;6;30.8769821;121.9002178
+Sheffield Hallam University;GB;6;53.4057560;-1.3873648
+Shiraz University of Medical Sciences;IR;6;29.6307268;52.5225177
+Southwestern University of Finance and Economics;CN;6;30.6834841;103.8200878
+St Petersburg University;RU;6;59.9406782;30.2964999
+Texas Tech University;US;6;33.5937526;-101.8995955
+The Graduate Center, CUNY;US;6;;
+The University of Adelaide;AU;6;;
+Toronto Metropolitan University;CA;6;43.6585342;-79.3784674
+Ulsan National Institute of Science and Technology;KR;6;35.5735270;129.1898563
+Umm al-Qura University;SA;6;21.3248320;39.9448821
+Universidad Autónoma de Madrid;ES;6;40.5453765;-3.6949578
+Universidad de Valladolid;ES;6;41.6516894;-4.7209841
+Universidade do Vale do Rio dos Sinos;BR;6;-29.7954567;-51.1549545
+University of Algarve;PT;6;;
+University of Arkansas at Fayetteville;US;6;;
+University of Aveiro;PT;6;40.6320293;-8.6597957
+University of Birmingham;GB;6;52.4504333;-1.9320033
+University of Essex;GB;6;51.8773639;0.9498751
+University of Illinois Chicago;US;6;41.8748613;-87.6519866
+University of Jinan;CN;6;23.0174732;113.4121657
+University of Liège;BE;6;50.6368602;5.5624252
+University of Padua;IT;6;45.4066496;11.8774407
+University of Saskatchewan;CA;6;52.1344194;-106.6277843
+University of Siegen;DE;6;;
+University of South Carolina;US;6;33.9928841;-81.0268676
+University of Tartu;EE;6;58.3810140;26.7195598
+University of the Aegean;GR;6;37.4453962;24.9417620
+Vellore Institute of Technology University;IN;6;12.9697498;79.1606601
+Waseda University;JP;6;35.7091798;139.7197213
+Wrocław University of Science and Technology;PL;6;;
+Xiamen University;CN;6;24.4399419;118.0930178
+Atatürk University;TR;5;39.9024928;41.2427694
+Babeș-Bolyai University;RO;5;;
+Baruch College;US;5;40.7402105;-73.9833844
+Beijing Forestry University;CN;5;40.0028750;116.3354804
+Binghamton University;US;5;42.0877998;-75.9706607
+Capital Medical University;CN;5;39.8633289;116.3469177
+Carl von Ossietzky Universität Oldenburg;DE;5;53.1467285;8.1828852
+Center for Autism and Related Disorders;US;5;37.3804990;-121.9412900
+Centre de recherche CERVO;CA;5;;
+Centre Inria de l'Université Grenoble Alpes;FR;5;;
+Chiba University;JP;5;35.6044657;140.1332237
+China Agricultural University;CN;5;40.0252280;116.2745405
+China University of Geosciences;CN;5;30.5253223;114.3938141
+China University of Mining and Technology;CN;5;34.2146056;117.1380776
+Chinese Institute for Brain Research;CN;5;;
+Computer Vision Center;ES;5;41.5008000;2.1098000
+Concordia University;CA;5;45.4582595;-73.6393547
+Dartmouth College;US;5;43.7046757;-72.2942089
+DEVCOM Army Research Laboratory;US;5;;
+Duke University;US;5;36.0001557;-78.9442297
+Durham University;GB;5;54.7672268;-1.5721956
+Florida Institute of Technology;US;5;28.0642710;-80.6230040
+Friedrich Schiller University Jena;DE;5;;
+Gachon University;KR;5;37.4527980;127.1337775
+Guangdong University of Finance;CN;5;23.2040578;113.3744174
+Guangzhou University;CN;5;23.0447155;113.3631733
+Gwangju Institute of Science and Technology;KR;5;35.2281557;126.8421662
+Gyeongsang National University;KR;5;35.1554690;128.0962563
+Hangzhou City University;CN;5;30.3359809;120.0319713
+Hangzhou Normal University;CN;5;30.2954743;120.0137437
+HEC Montréal;CA;5;45.5027767;-73.5645965
+HES-SO University of Applied Sciences and Arts Western Switzerland;CH;5;;
+Humboldt-Universität zu Berlin;DE;5;52.5183402;13.3929202
+Hunter College;US;5;40.7683107;-73.9644060
+Institut des Sciences du Mouvement Etienne-Jules Marey;FR;5;;
+Institut des Sciences Moléculaires;FR;5;44.8070676;-0.5960680
+Institut Mines-Télécom;FR;5;48.6249126;2.4427797
+Institute for Language and Speech Processing;GR;5;;
+Japan Society for the Promotion of Science;JP;5;;
+Jiangxi University of Finance and Economics;CN;5;;
+Joint Research Center;ES;5;37.4100000;-6.0040000
+King Mongkut's University of Technology Thonburi;TH;5;13.6517718;100.4944087
+Kyungpook National University;KR;5;35.8905697;128.6108553
+Laboratoire d'Informatique en Images et Systèmes d'Information;FR;5;;
+Liverpool John Moores University;GB;5;53.4123844;-2.9809270
+Louisiana State University in Shreveport;US;5;;
+Michigan United;US;5;39.7750204;-86.1980839
+Nanchang University;CN;5;28.6572190;115.7931408
+Nanjing Forestry University;CN;5;32.0810664;118.8117740
+National Institute of Informatics;JP;5;;
+National Institute of Standards and Technology;US;5;39.1316116;-77.2165406
+National Taiwan University;TW;5;25.0168175;121.5384571
+Ningbo University;CN;5;29.9095694;121.6350569
+North Carolina Agricultural and Technical State University;US;5;36.0780523;-79.7711093
+North Dakota State University;US;5;46.8971550;-96.8182654
+Open University of the Netherlands;NL;5;50.8779457;5.9594740
+Paderborn University;DE;5;51.7075210;8.7724141
+Qatar University;QA;5;25.3719714;51.4879579
+Qilu University of Technology;CN;5;36.5578144;116.8052310
+Qingdao University;CN;5;35.9816964;120.1623183
+Ritsumeikan University;JP;5;35.0344040;135.7266470
+Sejong University;KR;5;37.5500352;127.0760210
+Shandong Academy of Sciences;CN;5;35.7822058;120.0268230
+Shandong Normal University;CN;5;36.5414035;116.8264091
+Shenzhen Institutes of Advanced Technology;CN;5;22.5977588;113.9859982
+Shenzhen Technology University;CN;5;22.7029779;114.3953012
+Sommeil, Addiction et Neuropsychiatrie;FR;5;;
+Stevens Institute of Technology;US;5;40.7448096;-74.0252392
+Symbiosis International University;IN;5;18.5333169;73.8335802
+Technological University Dublin;IE;5;53.3579326;-6.2873140
+Tencent (China);CN;5;23.0517362;113.2618261
+The Open University;GB;5;52.0245378;-0.7092748
+The University of Western Australia;AU;5;-35.0277407;117.8874729
+Trabzon University;TR;5;41.0098181;39.6085206
+Umeå University;SE;5;63.8217763;20.3043163
+Universidad de Deusto;ES;5;43.3094825;-1.9756864
+Universidad Politécnica de Madrid;ES;5;40.5473558;-3.6918341
+Universidade Tecnológica Federal do Paraná;BR;5;-23.3072816;-51.1142573
+Universitat de València;ES;5;39.4604818;-0.3600927
+Universitat Politècnica de València;ES;5;39.4808517;-0.3420311
+University of California, Los Angeles;US;5;34.0708777;-118.4468503
+University of California, Santa Cruz;US;5;37.0001245;-122.0622122
+University of Canterbury;NZ;5;-43.5231789;172.5804299
+University of Chicago;US;5;41.7865853;-87.6058642
+University of Cincinnati;US;5;39.1318888;-84.5157831
+University of Colorado System;US;5;;
+University of Dundee;GB;5;56.4579758;-2.9821420
+University of East Anglia;GB;5;52.6210623;1.2356187
+University of Economics Ho Chi Minh City;VN;5;10.7830141;106.6948927
+University of Freiburg;DE;5;47.9946000;7.8467000
+University of Hertfordshire;GB;5;51.7517443;-0.2390498
+University of Leeds;GB;5;53.8065718;-1.5557853
+University of Michigan–Flint;US;5;43.0190005;-83.6889868
+University of Milan;IT;5;45.4756084;9.2333640
+University of Münster;DE;5;51.9673422;7.5992433
+University of North Texas;US;5;33.2099083;-97.1514715
+University of Palermo;IT;5;38.1050000;13.3500000
+University of Regensburg;DE;5;49.0030835;12.0962683
+University of Science and Technology Beijing;CN;5;39.9902333;116.3531753
+University of Sheffield;GB;5;53.3729712;-1.5060170
+University of the Fraser Valley;CA;5;49.0283444;-122.2849070
+University of York;GB;5;53.9453912;-1.0314589
+Università della Svizzera italiana;CH;5;46.0109126;8.9581205
+Universität der Bundeswehr München;DE;5;48.0766313;11.6359736
+Universität Trier;DE;5;49.7468633;6.6875270
+Université de Lorraine;FR;5;49.1199937;6.1641082
+Université de Montpellier;FR;5;43.6331162;3.8605852
+Université de Toulouse;FR;5;43.5642189;1.4665724
+Université Paris Cité;FR;5;48.8514684;2.3410890
+Wellesley College;US;5;42.2895485;-71.3144942
+Wright State University;US;5;39.7842039;-84.0567799
+Wuhan University of Technology;CN;5;30.6090817;114.3514451
+York University;CA;5;43.7741755;-79.5047490
+Yunnan Normal University;CN;5;25.0588796;102.6950170
+Zhejiang University of Science and Technology;CN;5;30.3200276;120.3686366
+Özyeğin University;TR;5;;
