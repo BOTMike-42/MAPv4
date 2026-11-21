@@ -296,7 +296,7 @@ function showProfile(author) {
  * Loads a JSON file.
  */
 function fetchJson(path) {
-  return fetch(path).then((response) => {
+  return fetch(path, { cache: "no-cache" }).then((response) => {
     if (!response.ok) throw new Error(`Could not load ${path} (HTTP ${response.status}).`);
     return response.json();
   });
