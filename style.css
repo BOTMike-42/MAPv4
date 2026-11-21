@@ -328,8 +328,9 @@ body.sidebar-closed .status {
 
 .tab {
   flex: 1;
-  padding: 7px 8px;
-  font-size: 12.5px;
+  padding: 7px 4px;
+  font-size: 12px;
+  white-space: nowrap;
   font-weight: 700;
   text-align: center;
   text-decoration: none;
@@ -352,7 +353,7 @@ body.sidebar-closed .status {
 }
 
 .authors-page .tabs {
-  max-width: 320px;
+  max-width: 420px;
   padding: 14px 18px;
 }
 
@@ -532,4 +533,39 @@ span.chip {
 
 .paper-meta a {
   color: #000;
+}
+
+/* ---------- Ranking page (ranking.html) ---------- */
+#ranking-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13.5px;
+}
+
+#ranking-table th {
+  text-align: left;
+  padding: 8px 10px;
+  color: #fff;
+  background: #000;
+  position: sticky;
+  top: 0;
+}
+
+#ranking-table td {
+  padding: 7px 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+#ranking-table tr:hover td {
+  background: #f2f2f2;
+}
+
+#ranking-table .number {
+  text-align: right;
+  white-space: nowrap;
+}
+
+#ranking-table a {
+  color: #000;
+  font-weight: 700;
 }
