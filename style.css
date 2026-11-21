@@ -551,6 +551,17 @@ span.chip {
   top: 0;
 }
 
+/* Column titles are clickable: they re-sort the list */
+#ranking-table th[data-sort] {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+#ranking-table th[data-sort]:hover {
+  background: #333;
+}
+
 #ranking-table td {
   padding: 7px 10px;
   border-bottom: 1px solid #ddd;
