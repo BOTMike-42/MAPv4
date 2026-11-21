@@ -345,27 +345,33 @@ function openPopupAt(coords, html) {
 
 /**
  * The "Top authors" part of an institution popup: the best-scoring authors
- * (see build_data.py), each linking to their profile page.
+ * (see build_data.py) with their points and overall rank, each linking to
+ * their profile page.
  */
 function topAuthorsHtml(institution) {
-  const top = (institutionExtra[institution] || {}).topAuthors || [];
-  if (top.length === 0) {
+  const extra = institutionExtra[institution];
+
+  // No entry at all: the data file is missing or older than MAP_DATA.csv.
+  if (!extra) {
+    return `<div class="popup-row"><span class="label">Top authors:</span> no data (institution_extra.json missing or out of date)</div>`;
+  }
+  if (extra.topAuthors.length === 0) {
     return `<div class="popup-row"><span class="label">Top authors:</span> none ranked</div>`;
   }
 
-  const items = top
+  const items = extra.topAuthors
     .map(
       (a) =>
         `<li><a href="authors.html?name=${encodeURIComponent(a.name)}">${escapeHtml(a.name)}</a> ` +
-        `<span class="label">(${a.points}${a.uncertain ? "*" : ""})</span></li>`
+        `<span class="label">(${a.points} points, rank #${a.rank}${a.uncertain ? "*" : ""})</span></li>`
     )
     .join("");
-  const note = top.some((a) => a.uncertain)
+  const note = extra.topAuthors.some((a) => a.uncertain)
     ? `<div class="popup-note">* name shared by several people, affiliation may be mixed up</div>`
     : "";
 
   return `
-    <div class="popup-row"><span class="label">Top ${top.length} authors (points):</span></div>
+    <div class="popup-row"><span class="label">Top ${extra.topAuthors.length} authors:</span></div>
     <ol class="popup-list">${items}</ol>${note}
   `;
 }
@@ -460,6 +466,10 @@ const MAX_SEARCH_RESULTS = 50;
 
 // File made by build_data.py: top authors and venues for each institution.
 const EXTRA_DATA_PATH = "institution_extra.json";
+
+// Makes the browser check for a newer copy of the data files instead of
+// reusing an old one it saved earlier.
+const FRESH = { cache: "no-cache" };
 
 // Grab the sidebar elements from index.html.
 const searchInput = document.getElementById("search-input");
@@ -789,7 +799,7 @@ function initSidebar(parsedRows, extraData) {
  * just without top authors and the venue filter.
  */
 function fetchExtraData() {
-  return fetch(EXTRA_DATA_PATH)
+  return fetch(EXTRA_DATA_PATH, FRESH)
     .then((response) => {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       return response.json();
@@ -804,7 +814,7 @@ function fetchExtraData() {
  * Loads MAP_DATA.csv as text.
  */
 function fetchCsvText() {
-  return fetch(CSV_PATH).then((response) => {
+  return fetch(CSV_PATH, FRESH).then((response) => {
     if (!response.ok) {
       throw new Error(
         `Could not fetch ${CSV_PATH} (HTTP ${response.status}). ` +
